@@ -1,6 +1,6 @@
 ## 자바스크립트의 클래스 소개
 
-~~자바스크립트 파일을 적용시키는 방법~~
+** 자바스크립트 파일을 적용시키는 방법 **
 
 -   tsconfig.json에 들어가서 compilerOptions안에 "allowJs" : true로 설정해준다.
 
