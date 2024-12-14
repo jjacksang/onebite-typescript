@@ -1,0 +1,12 @@
+{
+    "name": "section05",
+    "version": "1.0.0",
+    "description": "~~인터페이스란~~",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
